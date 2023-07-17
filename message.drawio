@@ -1,26 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2023-07-17T08:34:37.065Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="YAHSEOZR6Z0shvXSNAuy" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-17T08:35:11.634Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="00gbeGqTxgzl7jcYoTLw" version="21.6.2" type="github">
   <diagram name="第 1 页" id="NAOGwRa4cKEJh-U7dT4i">
-    <mxGraphModel dx="658" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1468" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9wDteuo_scK86G2xaQAO-7" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="140" width="130" height="240" as="geometry" />
+          <mxGeometry x="40" y="320" width="130" height="240" as="geometry" />
         </mxCell>
         <mxCell id="9wDteuo_scK86G2xaQAO-2" value="KAFKA消息队列" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="382" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9wDteuo_scK86G2xaQAO-3" value="订单系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="217" width="70" height="30" as="geometry" />
+          <mxGeometry x="75" y="397" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9wDteuo_scK86G2xaQAO-4" value="Geek管理平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="160" width="80" height="30" as="geometry" />
+          <mxGeometry x="70" y="340" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9wDteuo_scK86G2xaQAO-5" value="预警平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="330" width="70" height="30" as="geometry" />
+          <mxGeometry x="75" y="510" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9wDteuo_scK86G2xaQAO-6" value="优惠券平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="273" width="70" height="30" as="geometry" />
+          <mxGeometry x="75" y="453" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
