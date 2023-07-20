@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-07-20T07:28:13.605Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="7lj1xI9rFSFqCc7HyMKj" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-20T07:29:25.156Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ya-Xb24bt7kAvTl0m5Hy" version="21.6.2" type="github">
   <diagram name="第 1 页" id="NAOGwRa4cKEJh-U7dT4i">
     <mxGraphModel dx="1781" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="M_dqpOYaqOXfzwQB8Ssg-66" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="690" width="750" height="460" as="geometry" />
+        </mxCell>
         <mxCell id="M_dqpOYaqOXfzwQB8Ssg-3" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="144" y="720" width="180" height="380" as="geometry" />
         </mxCell>
@@ -108,7 +111,7 @@
             <mxPoint x="310" y="750" as="targetPoint" />
             <Array as="points">
               <mxPoint x="380" y="828" />
-              <mxPoint x="380" y="698" />
+              <mxPoint x="380" y="638" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -116,7 +119,7 @@
           <mxGeometry x="428.5" y="813" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M_dqpOYaqOXfzwQB8Ssg-36" value="1. 支持停止某个偏移量的区间的数据发送&lt;br&gt;2. 支持查看消息发送状态" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="411.5" y="670" width="140" height="70" as="geometry" />
+          <mxGeometry x="414" y="610" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="M_dqpOYaqOXfzwQB8Ssg-37" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;消息详情&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="429.5" y="959" width="110" height="30" as="geometry" />
