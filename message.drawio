@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-20T07:03:31.717Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jYESEQinsIbWX9lNFnTC" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-20T07:06:31.529Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="78mjebS972PRIvtqnywv" version="21.6.2" type="github">
   <diagram name="第 1 页" id="NAOGwRa4cKEJh-U7dT4i">
     <mxGraphModel dx="1781" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -132,6 +132,9 @@
             <mxPoint x="567.25" y="899" as="sourcePoint" />
             <mxPoint x="730.25" y="895" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="M_dqpOYaqOXfzwQB8Ssg-43" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;偏移量管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="729.75" y="766" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
