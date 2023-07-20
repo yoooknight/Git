@@ -1,38 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2023-07-20T07:26:26.761Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="bGwSrPmIXHzVVtX1oq5j" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-20T07:26:41.245Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="PkMm7LvJboXAeBfYG9jZ" version="21.6.2" type="github">
   <diagram name="第 1 页" id="NAOGwRa4cKEJh-U7dT4i">
     <mxGraphModel dx="1781" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="M_dqpOYaqOXfzwQB8Ssg-3" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="130" y="720" width="180" height="380" as="geometry" />
+          <mxGeometry x="144" y="720" width="180" height="380" as="geometry" />
         </mxCell>
         <mxCell id="M_dqpOYaqOXfzwQB8Ssg-5" value="注册中心" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="198" y="710" width="55" height="20" as="geometry" />
+          <mxGeometry x="212" y="710" width="55" height="20" as="geometry" />
         </mxCell>
         <mxCell id="M_dqpOYaqOXfzwQB8Ssg-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;管理平台&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="760" width="110" height="30" as="geometry" />
+          <mxGeometry x="184" y="760" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M_dqpOYaqOXfzwQB8Ssg-7" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;订单系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170.5" y="882" width="110" height="30" as="geometry" />
+          <mxGeometry x="184.5" y="882" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M_dqpOYaqOXfzwQB8Ssg-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;动态系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170.5" y="1006" width="110" height="30" as="geometry" />
+          <mxGeometry x="184.5" y="1006" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M_dqpOYaqOXfzwQB8Ssg-9" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;评论系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170.5" y="944" width="110" height="30" as="geometry" />
+          <mxGeometry x="184.5" y="944" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M_dqpOYaqOXfzwQB8Ssg-10" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;优惠券系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="820" width="110" height="30" as="geometry" />
+          <mxGeometry x="184" y="820" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M_dqpOYaqOXfzwQB8Ssg-11" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M_dqpOYaqOXfzwQB8Ssg-6" target="M_dqpOYaqOXfzwQB8Ssg-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="700" as="sourcePoint" />
-            <mxPoint x="90" y="775" as="targetPoint" />
+            <mxPoint x="314" y="700" as="sourcePoint" />
+            <mxPoint x="104" y="775" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="M_dqpOYaqOXfzwQB8Ssg-12" value="系统管理员发送系统消息" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="750" width="140" height="50" as="geometry" />
+          <mxGeometry x="-56" y="750" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="M_dqpOYaqOXfzwQB8Ssg-14" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="642" y="734" width="190" height="340" as="geometry" />
@@ -42,51 +42,51 @@
         </mxCell>
         <mxCell id="M_dqpOYaqOXfzwQB8Ssg-16" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170.5" y="834.5" as="sourcePoint" />
-            <mxPoint x="71" y="835" as="targetPoint" />
+            <mxPoint x="184.5" y="834.5" as="sourcePoint" />
+            <mxPoint x="85" y="835" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="M_dqpOYaqOXfzwQB8Ssg-17" value="优惠券系统向用户发送优惠券相关通知" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="810" width="140" height="50" as="geometry" />
+          <mxGeometry x="-56" y="810" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="M_dqpOYaqOXfzwQB8Ssg-18" value="下单状态通知" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="885" width="90" height="31" as="geometry" />
+          <mxGeometry x="-6" y="885" width="90" height="31" as="geometry" />
         </mxCell>
         <mxCell id="M_dqpOYaqOXfzwQB8Ssg-19" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="M_dqpOYaqOXfzwQB8Ssg-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170.5" y="900" as="sourcePoint" />
-            <mxPoint x="71" y="900.5" as="targetPoint" />
+            <mxPoint x="184.5" y="900" as="sourcePoint" />
+            <mxPoint x="85" y="900.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="M_dqpOYaqOXfzwQB8Ssg-20" value="评论回复通知、评论通知" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="942" width="140" height="34" as="geometry" />
+          <mxGeometry x="-56" y="942" width="140" height="34" as="geometry" />
         </mxCell>
         <mxCell id="M_dqpOYaqOXfzwQB8Ssg-21" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="M_dqpOYaqOXfzwQB8Ssg-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170.5" y="958.5" as="sourcePoint" />
-            <mxPoint x="70" y="959.5" as="targetPoint" />
+            <mxPoint x="184.5" y="958.5" as="sourcePoint" />
+            <mxPoint x="84" y="959.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="M_dqpOYaqOXfzwQB8Ssg-22" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;预警系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1060" width="110" height="30" as="geometry" />
+          <mxGeometry x="184" y="1060" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M_dqpOYaqOXfzwQB8Ssg-25" value="动态评论通知" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="1006" width="80" height="34" as="geometry" />
+          <mxGeometry x="4" y="1006" width="80" height="34" as="geometry" />
         </mxCell>
         <mxCell id="M_dqpOYaqOXfzwQB8Ssg-26" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="1022.5" as="sourcePoint" />
-            <mxPoint x="69.5" y="1023" as="targetPoint" />
+            <mxPoint x="184" y="1022.5" as="sourcePoint" />
+            <mxPoint x="83.5" y="1023" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="M_dqpOYaqOXfzwQB8Ssg-27" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="175" y="1074.5" as="sourcePoint" />
-            <mxPoint x="74.5" y="1075" as="targetPoint" />
+            <mxPoint x="189" y="1074.5" as="sourcePoint" />
+            <mxPoint x="88.5" y="1075" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="M_dqpOYaqOXfzwQB8Ssg-28" value="达人求救、服务器预警等通知" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="1060" width="160" height="34" as="geometry" />
+          <mxGeometry x="-66" y="1060" width="160" height="34" as="geometry" />
         </mxCell>
         <mxCell id="M_dqpOYaqOXfzwQB8Ssg-29" value="消息系统监控中心" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="428.5" y="771" width="109" height="20" as="geometry" />
@@ -112,7 +112,7 @@
           <mxGeometry x="428.5" y="813" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M_dqpOYaqOXfzwQB8Ssg-36" value="1. 支持停止某个偏移量的区间的数据发送&lt;br&gt;2. 支持查看消息发送状态" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="289.5" y="620" width="140" height="70" as="geometry" />
+          <mxGeometry x="310" y="620" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="M_dqpOYaqOXfzwQB8Ssg-37" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;消息详情&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="429.5" y="959" width="110" height="30" as="geometry" />
