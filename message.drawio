@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-20T06:53:50.362Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="wc1ztafdU4qv7hs7yiVt" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-20T06:56:13.546Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="M40b2wHa_zgF-UHvq687" version="21.6.2" type="github">
   <diagram name="第 1 页" id="NAOGwRa4cKEJh-U7dT4i">
     <mxGraphModel dx="1781" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,6 +114,9 @@
         </mxCell>
         <mxCell id="M_dqpOYaqOXfzwQB8Ssg-36" value="1. 支持停止某个偏移量的区间的数据发送&lt;br&gt;2. 支持查看消息发送状态" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="230" y="810" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="M_dqpOYaqOXfzwQB8Ssg-37" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;消息详情&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="422.5" y="895" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
